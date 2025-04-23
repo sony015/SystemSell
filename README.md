@@ -1,6 +1,6 @@
 # Sistema de Controle de Vendas e Custos
 
-Este projeto é uma API REST desenvolvida com Node.js e Express para gerenciar produtos, vendas e custos. Ideal para pequenas empresas que precisam controlar o fluxo de entrada e saída de produtos, calcular lucro e visualizar relatórios financeiros.
+Este projeto é uma API REST desenvolvida com Node.js e Express para gerenciar produtos, vendas e custos. Ideal para pequenas empresas que precisam controlar o fluxo de entrada e saída de produtos, calcular lucro e visualizar relatórios financeiros. O Sistema foi criada específicamente para uma empresa denomida Jango.
 
 ---
 
